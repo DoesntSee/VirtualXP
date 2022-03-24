@@ -1,5 +1,5 @@
 # VirtualXP
-
+Not mine, just did this to replace VirtualXP.iso with my own to test it.
 Virtual Machine running in a Web browser.
 
 ![alt screenshot](https://raw.githubusercontent.com/lrusso/VirtualXP/master/VirtualXP.png)
